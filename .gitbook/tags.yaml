@@ -2,3 +2,7 @@
   label: 財務
   icon: square-minus
   color: orange
+- tag: ji-shu
+  label: 技術
+  icon: left-long-to-line
+  color: cyan
