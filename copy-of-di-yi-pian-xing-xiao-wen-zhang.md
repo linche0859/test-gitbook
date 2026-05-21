@@ -4,6 +4,8 @@ coverY: 0
 tags:
   - cai-wu
   - xing-xiao
+status: '近期更新'
+type: '企劃書'
 ---
 
 # Copy of 第一篇行銷文章
